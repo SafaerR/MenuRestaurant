@@ -1,0 +1,24 @@
+ul {
+    list-style:none;
+    margin-bottom:10px;
+   
+}
+li {
+    
+    display : inline;
+    margin-left: 15px;
+}
+
+h2{
+    margin-left: 15px;
+}
+.left_col{
+   
+    background-color: grey;
+}
+.right_col{
+    background-color: burlywood;
+}
+/* img{
+    display:none;
+} */
